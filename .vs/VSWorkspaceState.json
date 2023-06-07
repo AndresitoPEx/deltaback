@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\loginapp",
+    "\\loginapp\\Controllers",
+    "\\loginapp\\Db",
+    "\\loginapp\\Db\\Contexts",
+    "\\loginapp\\Db\\Tables",
+    "\\loginapp\\Models"
+  ],
+  "PreviewInSolutionExplorer": false
+}
